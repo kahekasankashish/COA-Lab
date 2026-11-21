@@ -1,0 +1,38 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated folders
+slprj/
+codegen/
+*.mex*
+*.slxc
+
+# MATLAB preferences and cache
+.matlab/
+*.prj.bak
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Python cache (if any helper scripts are added)
+__pycache__/
+*.py[cod]

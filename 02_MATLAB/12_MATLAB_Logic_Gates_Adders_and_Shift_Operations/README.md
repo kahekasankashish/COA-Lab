@@ -1,8 +1,8 @@
-## COA Lab — MATLAB Assignment 12
+# COA Lab — MATLAB Assignment 12
 
-# Assignment 12: Logic Gates, Adders and Shift Operations
+## Assignment 12: Logic Gates, Adders and Shift Operations
 
-# Programs
+## Programs
 
 | Q. | File | Practical |
 |---:|---|---|

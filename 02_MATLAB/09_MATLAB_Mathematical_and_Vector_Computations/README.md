@@ -1,8 +1,8 @@
-## COA Lab — MATLAB Assignment 09
+# COA Lab — MATLAB Assignment 09
 
-# Assignment 09: Mathematical and Vector Computations
+## Assignment 09: Mathematical and Vector Computations
 
-# Files
+## Files
 
 - `01_Mathematical_and_Vector_Computations.m` — contains Q1–Q16 in one numbered script.
 

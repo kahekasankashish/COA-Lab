@@ -1,6 +1,6 @@
-## 8085 Assembly Programs
+# 8085 Assembly Programs
 
-# Programs
+## Programs
 
 | File | Practical |
 |---|---|

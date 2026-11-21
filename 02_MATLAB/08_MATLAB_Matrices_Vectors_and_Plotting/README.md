@@ -1,7 +1,7 @@
-## COA Lab — MATLAB Assignment 08
+# COA Lab — MATLAB Assignment 08
 
-# Assignment 08: Matrices, Vectors and Plotting
-# Contents
+## Assignment 08: Matrices, Vectors and Plotting
+## Contents
 
 | File | Practical covered |
 |---|---|

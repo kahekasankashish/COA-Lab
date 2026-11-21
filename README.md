@@ -9,7 +9,7 @@ COA-Lab/
 │
 ├── 01_8085_Assembly/
 │
-├── MATLAB/
+├── 02_MATLAB/
 │   ├── 07_MATLAB_Commands_and_Functions/
 │   ├── 08_MATLAB_Matrices_Vectors_and_Plotting/
 │   ├── 09_MATLAB_Mathematical_and_Vector_Computations/

@@ -1,8 +1,8 @@
-## COA Lab — MATLAB Assignment 11
+# COA Lab — MATLAB Assignment 11
 
-# Assignment 11: Programming Using Scripts and Functions in MATLAB
+## Assignment 11: Programming Using Scripts and Functions in MATLAB
 
-# Programs
+## Programs
 
 | Q. | File | Practical |
 |---:|---|---|
